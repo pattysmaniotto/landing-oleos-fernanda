@@ -1,0 +1,119 @@
+{
+  "produtos": [
+    {
+      "id": "frankincense-15ml",
+      "nome": "Frankincense",
+      "nome_pt": "Olíbanco",
+      "tamanho": "15ml",
+      "preco": 648.0,
+      "imagem": "imagens/frankincense-15ml.jpg",
+      "descricao_curta": "Promove relaxamento e bem-estar quando inalado ou usado topicamente.",
+      "categoria": "bem-estar",
+      "destaque": true
+    },
+    {
+      "id": "olibano-aroma-natural-5ml",
+      "nome": "Olíbanco Aroma Natural",
+      "nome_pt": "Aroma Natural de Olíbanco",
+      "tamanho": "5ml",
+      "preco": 270.0,
+      "imagem": "imagens/olibano-aroma-natural-5ml.webp",
+      "descricao_curta": "Aromatizante natural para bebidas, sobremesas e pratos especiais.",
+      "categoria": "culinario",
+      "destaque": false
+    },
+    {
+      "id": "hortela-pimenta-15ml",
+      "nome": "Hortelã-pimenta",
+      "nome_pt": "Peppermint",
+      "tamanho": "15ml",
+      "preco": 184.0,
+      "imagem": "imagens/placeholder.jpg",
+      "descricao_curta": "Mentolado e refrescante, revigora corpo e mente. Clássico pra higiene bucal e sensação de frescor.",
+      "categoria": "bem-estar",
+      "destaque": false
+    },
+    {
+      "id": "hortela-pimenta-aroma-natural-5ml",
+      "nome": "Aroma Natural de Hortelã-pimenta",
+      "nome_pt": "Peppermint Flavor",
+      "tamanho": "5ml",
+      "preco": 92.0,
+      "imagem": "imagens/placeholder.jpg",
+      "descricao_curta": "Aroma natural para aromatizar sobremesas, chocolates, bebidas, chás e preparações com frutas.",
+      "categoria": "culinario",
+      "destaque": false
+    },
+    {
+      "id": "oregano-15ml",
+      "nome": "Orégano",
+      "nome_pt": "Oregano",
+      "tamanho": "15ml",
+      "preco": 230.0,
+      "imagem": "imagens/placeholder.jpg",
+      "descricao_curta": "Óleo potente com alto teor de carvacrol, usado topicamente diluído ou em aromatizador.",
+      "categoria": "bem-estar",
+      "destaque": false
+    },
+    {
+      "id": "oregano-aroma-natural-5ml",
+      "nome": "Aroma Natural de Orégano",
+      "nome_pt": "Oregano Flavor",
+      "tamanho": "5ml",
+      "preco": 100.0,
+      "imagem": "imagens/placeholder.jpg",
+      "descricao_curta": "Aromatizar molhos, massas, carnes, pães e preparações salgadas.",
+      "categoria": "culinario",
+      "destaque": false
+    },
+    {
+      "id": "lavanda-aroma-natural-5ml",
+      "nome": "Aroma Natural de Lavanda",
+      "nome_pt": "Lavender Flavor",
+      "tamanho": "5ml",
+      "preco": 103.0,
+      "imagem": "imagens/placeholder.jpg",
+      "descricao_curta": "Adiciona sabor floral aromático a sobremesas, bebidas e receitas.",
+      "categoria": "culinario",
+      "destaque": false
+    },
+    {
+      "id": "limao-aroma-natural-5ml",
+      "nome": "Aroma Natural de Limão-Siciliano",
+      "nome_pt": "Lemon Flavor",
+      "tamanho": "5ml",
+      "preco": 48.0,
+      "imagem": "imagens/placeholder.jpg",
+      "descricao_curta": "Aroma cítrico para aromatizar bebidas, sobremesas, bolos, molhos e preparações à base de frutas.",
+      "categoria": "culinario",
+      "destaque": false
+    },
+    {
+      "id": "limao-siciliano-15ml",
+      "nome": "Limão Siciliano",
+      "nome_pt": "Lemon",
+      "tamanho": "15ml",
+      "preco": 115.0,
+      "imagem": "imagens/placeholder.jpg",
+      "descricao_curta": "Energizante e edificante, refresca o ambiente e melhora o humor.",
+      "categoria": "bem-estar",
+      "destaque": false
+    },
+    {
+      "id": "cedro-15ml",
+      "nome": "Cedro",
+      "nome_pt": "Cedarwood",
+      "tamanho": "15ml",
+      "preco": 140.0,
+      "imagem": "imagens/placeholder.jpg",
+      "descricao_curta": "Óleo amadeirado que promove relaxamento e ajuda a manter a pele saudável.",
+      "categoria": "bem-estar",
+      "destaque": false
+    }
+  ],
+  "whatsapp_suporte": "5519982271245",
+  "instagram": "https://www.instagram.com/fernandakdelgado",
+  "chave_pix": "93549111-ea5d-4639-9972-ed9bc58bf701",
+  "titular_pix": "Fernanda Delgado",
+  "cidade_envio": "Brasil"
+}

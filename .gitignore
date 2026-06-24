@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Ambiente — NUNCA versionar o .env real
+.env
+.env.local
+
+# Credenciais do Google — NUNCA versionar
+credentials.json
+*.json.gpg
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
