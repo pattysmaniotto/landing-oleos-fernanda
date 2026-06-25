@@ -72,7 +72,7 @@
       "nome_pt": "Lavender Flavor",
       "tamanho": "5ml",
       "preco": 103.0,
-      "imagem": "imagens/placeholder.jpg",
+      "imagem": "imagens/lavanda-aroma-natural-5ml.png",
       "descricao_curta": "Adiciona sabor floral aromático a sobremesas, bebidas e receitas.",
       "categoria": "culinario",
       "destaque": false
@@ -83,7 +83,7 @@
       "nome_pt": "Lemon Flavor",
       "tamanho": "5ml",
       "preco": 48.0,
-      "imagem": "imagens/placeholder.jpg",
+      "imagem": "imagens/limao-aroma-natural-5ml.webp",
       "descricao_curta": "Aroma cítrico para aromatizar bebidas, sobremesas, bolos, molhos e preparações à base de frutas.",
       "categoria": "culinario",
       "destaque": false
@@ -94,7 +94,7 @@
       "nome_pt": "Lemon",
       "tamanho": "15ml",
       "preco": 115.0,
-      "imagem": "imagens/placeholder.jpg",
+      "imagem": "imagens/limao-siciliano-15ml.jpg",
       "descricao_curta": "Energizante e edificante, refresca o ambiente e melhora o humor.",
       "categoria": "bem-estar",
       "destaque": false
@@ -105,7 +105,7 @@
       "nome_pt": "Cedarwood",
       "tamanho": "15ml",
       "preco": 140.0,
-      "imagem": "imagens/placeholder.jpg",
+      "imagem": "imagens/cedro-15ml.jpg",
       "descricao_curta": "Óleo amadeirado que promove relaxamento e ajuda a manter a pele saudável.",
       "categoria": "bem-estar",
       "destaque": false
